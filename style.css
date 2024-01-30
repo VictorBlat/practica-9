@@ -1,0 +1,11 @@
+input.Entrar{
+    position: relative;
+    width: 300px;
+    height: 30px;
+    background-color: orange;
+    border-radius: 10px;
+
+}
+p{
+    text-align: center;
+}
