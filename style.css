@@ -1,11 +1,44 @@
 input.Entrar{
     position: relative;
     width: 300px;
-    height: 30px;
-    background-color: orange;
+    height: 40px;
+    border-color: white;
+    color: white;
+    background-color: #ff6200;
     border-radius: 10px;
 
 }
 p{
     text-align: center;
+}
+input.crear{
+    position: relative;
+    width: 300px;
+    height: 40px;
+    background-color: #598d2f;
+    border-color: white;
+    color: white;
+    border-radius: 10px;
+
+}
+input.formulario2{
+    position: relative;
+    width: 450px;
+    height: 50px;
+    border-color: black 10px;
+
+}
+input.pequeños{
+    position: relative;
+    width: 220px;
+    height: 50px;
+    border-color: black 10px;
+    
+}
+select.pequeños{
+    position: relative;
+    width: 220px;
+    height: 50px;
+    border-color: black 10px;
+    
 }
