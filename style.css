@@ -10,11 +10,11 @@ input.Entrar{
 }
 p{
     position: relative;
-    left: 800px;
+    left: 42%;
 }
 p.center{
     position: relative;
-    left: 750px;
+    left: 39%;
 }
 input.crear{
     position: relative;
