@@ -9,7 +9,12 @@ input.Entrar{
 
 }
 p{
-    text-align: center;
+    position: relative;
+    left: 800px;
+}
+p.center{
+    position: relative;
+    left: 750px;
 }
 input.crear{
     position: relative;
@@ -39,6 +44,13 @@ select.pequeños{
     position: relative;
     width: 220px;
     height: 50px;
+    border-color: black 10px;
+    
+}
+input.pequeño{
+    position: relative;
+    width: 220px;
+    height: 30px;
     border-color: black 10px;
     
 }
